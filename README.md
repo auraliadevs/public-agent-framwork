@@ -1,12 +1,12 @@
 <p align="center">
     <img alt="Auralia Framework logo" src="/docs/assets/auraliabanner.png" height="128">
-    <h1 align="center">Auralia Agent Framework</h1>
+    <h1 align="center">Auras Agent Framework</h1>
 </p>
 
 <p align="center">
   <!-- Twitter Badge -->
-  <a href="https://x.com/auraliadevs">
-    <img src="https://img.shields.io/twitter/follow/auraliadevs?style=social" alt="Twitter Follow"/>
+  <a href="https://x.com/aurasIO">
+    <img src="https://img.shields.io/twitter/follow/aurasIO?style=social" alt="Twitter Follow"/>
   </a>
 </p>
 
